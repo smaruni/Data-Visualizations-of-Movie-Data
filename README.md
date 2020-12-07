@@ -1,1 +1,2 @@
 # Data-Visualizations-of-Movie-Data
+The dataset used contained information from a large sample of movies compiled from various sources. It includes metrics about the movie industry such as production budget, genre, directors, gross sales, and ratings from the platforms RottenTomatoes, The Numbers and IMDB. The dataset was explored in Excel and made into visualizations with the software tool Tableau.
